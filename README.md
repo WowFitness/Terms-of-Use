@@ -4,7 +4,7 @@ By accessing to the Service, we assume you accept these terms and conditions in 
 
 ## Basic Introduction
 
-Denise Leslie / Edwards Linnea, ("We", "Us," "Our") develops mobile applications Fasting ("Our Products"). Our Apple Applications may be downloaded from the App Store, which is operated and owned by Apple Inc. and other companies within its group ("Apple"). Our Android Applications may be downloaded from Google Play, which is owned and operated by Google Inc. and other companies within its group ("Google"). We develop Our Products for informational purposes only. You must ALWAYS consult your physician or doctor before starting any fitness program. By agreeing to these Terms and Conditions you confirm that you are solely responsible for your state of health.
+Denise Leslie / Linnea Edwards, ("We", "Us," "Our") develops mobile applications Fasting ("Our Products"). Our Apple Applications may be downloaded from the App Store, which is operated and owned by Apple Inc. and other companies within its group ("Apple"). Our Android Applications may be downloaded from Google Play, which is owned and operated by Google Inc. and other companies within its group ("Google"). We develop Our Products for informational purposes only. You must ALWAYS consult your physician or doctor before starting any fitness program. By agreeing to these Terms and Conditions you confirm that you are solely responsible for your state of health.
 
 ## Acceptance of Terms and Conditions
 
