@@ -4,7 +4,7 @@ By accessing to the Service, we assume you accept these terms and conditions in 
 
 ## Basic Introduction
 
-Denise Leslie / Linnea Edwards, ("We", "Us," "Our") develops mobile applications Fasting ("Our Products"). Our Apple Applications may be downloaded from the App Store, which is operated and owned by Apple Inc. and other companies within its group ("Apple"). Our Android Applications may be downloaded from Google Play, which is owned and operated by Google Inc. and other companies within its group ("Google"). We develop Our Products for informational purposes only. You must ALWAYS consult your physician or doctor before starting any fitness program. By agreeing to these Terms and Conditions you confirm that you are solely responsible for your state of health.
+Denise Leslie / Linnea Edwards, ("We", "Us," "Our") develops mobile applications Fasting ("Our Products"). Our Apple Applications may be downloaded from the App Store, which is operated and owned by Apple Inc. and other companies within its group ("Apple"). Our Android Applications may be downloaded from Google Play, which is owned and operated by Google Inc. and other companies within its group ("Google").Our Android Applications may also be downloaded from AppGallery, which is owned and operated by HUAWEI Inc. and other companies within its group ("HUAWEI"). We develop Our Products for informational purposes only. You must ALWAYS consult your physician or doctor before starting any fitness program. By agreeing to these Terms and Conditions you confirm that you are solely responsible for your state of health.
 
 ## Acceptance of Terms and Conditions
 
@@ -20,7 +20,9 @@ By using Our Products, you hereby warrant that: (i) all information contained in
 
 ## Membership Subscriptions
 
-Fasting Premium Membership subscriptions that grant you access to additional features like personalized plan, drink water theme and Ads removal etc . Fasting offers monthly and annual subscription options. Payment will be charged to iTunes Account (iOS) / Google Play Account (Android) at confirmation of purchase. Paid Subscriptions automatically renew until cancelled in the Manage Subscriptions section of your account settings. We will notify you if the price of a Paid Subscription increases and, if required, seek your consent to continue. You will be charged no more than 24 hours prior to the start of the latest Paid Subscription period. If you decide to unsubscribe from a Paid Subscription before we start charging your payment method, cancel the subscription before the free trial ends.
+Fasting Premium Membership subscriptions that grant you access to additional features like personalized plan, drink water theme and Ads removal etc . Fasting offers 
+monthly and annual subscription options. Payment will be charged to iTunes Account (iOS) / Google Play Account (Android) / AppGallery Account (Android) at confirmation
+ of purchase. Paid Subscriptions automatically renew until cancelled in the Manage Subscriptions section of your account settings. We will notify you if the price of a Paid Subscription increases and, if required, seek your consent to continue. You will be charged no more than 24 hours prior to the start of the latest Paid Subscription period. If you decide to unsubscribe from a Paid Subscription before we start charging your payment method, cancel the subscription before the free trial ends.
 
 ##Disclaimer of Warranty
 
