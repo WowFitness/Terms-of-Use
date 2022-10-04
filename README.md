@@ -1,45 +1,114 @@
-These terms and conditions outline the rules and regulations for the use of Intermittent Fasting Tracker ("Fasting").
-
-By accessing to the Service, we assume you accept these terms and conditions in full. You may not use Fasting if you do not accept all of the terms and conditions stated on this page.
-
-## Basic Introduction
-
-Denise Leslie / Linnea Edwards, ("We", "Us," "Our") develops mobile applications Fasting ("Our Products"). Our Apple Applications may be downloaded from the App Store, which is operated and owned by Apple Inc. and other companies within its group ("Apple"). Our Android Applications may be downloaded from Google Play, which is owned and operated by Google Inc. and other companies within its group ("Google").Our Android Applications may also be downloaded from AppGallery, which is owned and operated by HUAWEI Inc. and other companies within its group ("HUAWEI"). We develop Our Products for informational purposes only. You must ALWAYS consult your physician or doctor before starting any fitness program. By agreeing to these Terms and Conditions you confirm that you are solely responsible for your state of health.
-
-## Acceptance of Terms and Conditions
-
-By using Our Products you accept these Terms and Conditions. If you do not accept these Terms and Conditions, you may not use Our Products and Services. Fasting reserves the right to amend these Terms and Conditions at any time without prior notice. The up-to-date version of these Terms and Conditions will be available on our official website. and any changes will come into effect immediately upon posting. By continuing to use our products you agree to amended terms and conditions.
-
-##Copyright and Trademarks
-
-The source codes, texts, graphics, logos, icons, images, data compilations and information ("Content") contained in Our Products and Services are Intellectual Property of Fasting. (or belongs to it) and are protected by copyright laws. We owns and retains all rights in the Fasting Content and Services.
-
-## Legality of Use
-
-By using Our Products, you hereby warrant that: (i) all information contained in any submission by you is either owned by you or rights have been granted to you permitting you to disseminate the information as set forth in these Terms and Conditions; and (ii) the information contained in any submissions by you does not infringe on the intellectual property rights of others, including but not limited to, copyright, trademark, patent, or trade secret rights. You accept full responsibility, assume all risk, and waive and/or release Us from any direct or indirect loss, injury, claim or damage arising from your use of Our Products, whether or not such use was appropriately supervised and regardless of whether you were negligent in such use. By using Our Products, you attest and verify that you are physically and mentally able to use Our Products, and knowingly accept and are fully aware of all risks associated with their use.
-
-## Membership Subscriptions
-
-Fasting Premium Membership subscriptions that grant you access to additional features like personalized plan, drink water theme and Ads removal etc . Fasting offers 
-monthly and annual subscription options. Payment will be charged to iTunes Account (iOS) / Google Play Account (Android) / AppGallery Account (Android) at confirmation
- of purchase. Paid Subscriptions automatically renew until cancelled in the Manage Subscriptions section of your account settings. We will notify you if the price of a Paid Subscription increases and, if required, seek your consent to continue. You will be charged no more than 24 hours prior to the start of the latest Paid Subscription period. If you decide to unsubscribe from a Paid Subscription before we start charging your payment method, cancel the subscription before the free trial ends.
-
-##Disclaimer of Warranty
-
-Our Service is provided “AS IS” AND “AS AVAILABLE”, without express or implied warranty or condition of any kind. you use the Fasting Service at your own risk. To the fullest extent permitted by applicable law, Fasting and all owners of the content make no representations and disclaim any warranties or conditions of satisfactory quality, merchantability, fitness for a particular purpose, or non- infringement.
-
-## Limitations of Liability
-
-In no event shall Fasting be liable for any loss or damages (including without limitation of any direct, indirect, punitive, special, incidental or consequential loss or damage):
-- Access to the Service or inability to access to the Service;
--Any third party's conduct, content, information or data;
-- Personal injury or property damage, of any nature whatsoever, resulting from your access to and/or use of (or your inability to access and use) the Fasting Services, including, without limitation, making private content public or any damage caused to your computer or software or information stored thereon;
-- Any unauthorized access to or use of Fasting Services and/or any and all personal, private, and/ or other information stored therein.
-
-## Thank You
-
-Thank you for reading our Terms. Hope you enjoy using with Fasting!
-
-## Support and Contact
-
-If you have any questions concerning the Service or the Terms, please contact us by email at fastingfeedback@outlook.com
+<!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset='utf-8'>
+      <meta name='viewport' content='width=device-width'>
+      <title>Terms &amp; Conditions</title>
+      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
+    </head>
+    <body>
+    <h2>Terms &amp; Conditions</h2> <p>
+                  By downloading or using the app, these terms will
+                  automatically apply to you – you should make sure therefore
+                  that you read them carefully before using the app. You’re not
+                  allowed to copy or modify the app, any part of the app, or
+                  our trademarks in any way. You’re not allowed to attempt to
+                  extract the source code of the app, and you also shouldn’t try
+                  to translate the app into other languages or make derivative
+                  versions. The app itself, and all the trademarks, copyright,
+                  database rights, and other intellectual property rights related
+                  to it, still belong to Guo Yun.
+                </p> <p>
+                  Guo Yun is committed to ensuring that the app is
+                  as useful and efficient as possible. For that reason, we
+                  reserve the right to make changes to the app or to charge for
+                  its services, at any time and for any reason. We will never
+                  charge you for the app or its services without making it very
+                  clear to you exactly what you’re paying for.
+                </p> <p>
+                  The Intermittent Fasting Tracker ("Fasting") app stores and processes personal data that
+                  you have provided to us, to provide my
+                  Service. It’s your responsibility to keep your phone and
+                  access to the app secure. We therefore recommend that you do
+                  not jailbreak or root your phone, which is the process of
+                  removing software restrictions and limitations imposed by the
+                  official operating system of your device. It could make your
+                  phone vulnerable to malware/viruses/malicious programs,
+                  compromise your phone’s security features and it could mean
+                  that the Intermittent Fasting Tracker ("Fasting") app won’t work properly or at all.
+                </p> <div><p>
+                    The app does use third-party services that declare their
+                    Terms and Conditions.
+                  </p> <p>
+                    Link to Terms and Conditions of third-party service
+                    providers used by the app
+                  </p> <ul><li><a href="https://policies.google.com/terms" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><li><a href="https://developers.google.com/admob/terms" target="_blank" rel="noopener noreferrer">AdMob</a></li><li><a href="https://firebase.google.com/terms/analytics" target="_blank" rel="noopener noreferrer">Google Analytics for Firebase</a></li><!----><li><a href="https://www.facebook.com/legal/terms/plain_text_terms" target="_blank" rel="noopener noreferrer">Facebook</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><li><a href="https://www.revenuecat.com/terms" target="_blank" rel="noopener noreferrer">RevenueCat</a></li></ul></div> <p>
+                  You should be aware that there are certain things that
+                  Guo Yun will not take responsibility for. Certain
+                  functions of the app will require the app to have an active
+                  internet connection. The connection can be Wi-Fi or provided
+                  by your mobile network provider, but Guo Yun
+                  cannot take responsibility for the app not working at full
+                  functionality if you don’t have access to Wi-Fi, and you don’t
+                  have any of your data allowance left.
+                </p> <p></p> <p>
+                  If you’re using the app outside of an area with Wi-Fi, you
+                  should remember that the terms of the agreement with your
+                  mobile network provider will still apply. As a result, you may
+                  be charged by your mobile provider for the cost of data for
+                  the duration of the connection while accessing the app, or
+                  other third-party charges. In using the app, you’re accepting
+                  responsibility for any such charges, including roaming data
+                  charges if you use the app outside of your home territory
+                  (i.e. region or country) without turning off data roaming. If
+                  you are not the bill payer for the device on which you’re
+                  using the app, please be aware that we assume that you have
+                  received permission from the bill payer for using the app.
+                </p> <p>
+                  Along the same lines, Guo Yun cannot always take
+                  responsibility for the way you use the app i.e. You need to
+                  make sure that your device stays charged – if it runs out of
+                  battery and you can’t turn it on to avail the Service,
+                  Guo Yun cannot accept responsibility.
+                </p> <p>
+                  With respect to Guo Yun’s responsibility for your
+                  use of the app, when you’re using the app, it’s important to
+                  bear in mind that although we endeavor to ensure that it is
+                  updated and correct at all times, we do rely on third parties
+                  to provide information to us so that we can make it available
+                  to you. Guo Yun accepts no liability for any
+                  loss, direct or indirect, you experience as a result of
+                  relying wholly on this functionality of the app.
+                </p> <p>
+                  At some point, we may wish to update the app. The app is
+                  currently available on Android &amp; iOS – the requirements for the 
+                  both systems(and for any additional systems we
+                  decide to extend the availability of the app to) may change,
+                  and you’ll need to download the updates if you want to keep
+                  using the app. Guo Yun does not promise that it
+                  will always update the app so that it is relevant to you
+                  and/or works with the Android &amp; iOS version that you have
+                  installed on your device. However, you promise to always
+                  accept updates to the application when offered to you, We may
+                  also wish to stop providing the app, and may terminate use of
+                  it at any time without giving notice of termination to you.
+                  Unless we tell you otherwise, upon any termination, (a) the
+                  rights and licenses granted to you in these terms will end;
+                  (b) you must stop using the app, and (if needed) delete it
+                  from your device.
+                </p> <p><strong>Changes to This Terms and Conditions</strong></p> <p>
+                  I may update our Terms and Conditions
+                  from time to time. Thus, you are advised to review this page
+                  periodically for any changes. I will
+                  notify you of any changes by posting the new Terms and
+                  Conditions on this page.
+                </p> <p>
+                  These terms and conditions are effective as of 2022-01-01
+                </p> <p><strong>Contact Us</strong></p> <p>
+                  If you have any questions or suggestions about my
+                  Terms and Conditions, do not hesitate to contact me
+                  at fastingfeedback@outlook.com.
+                </p> <p>This Terms and Conditions page was generated by <a href="https://app-privacy-policy-generator.nisrulz.com/" target="_blank" rel="noopener noreferrer">App Privacy Policy Generator</a></p>
+    </body>
+    </html>
+      
